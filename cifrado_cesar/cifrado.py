@@ -3,7 +3,7 @@ Se pedira una palabra a cifrar y la cantidad de tabulaciones que se le
 hara a los digitos para cambiarlos, utilizando todos los digitos presentes
 en el ASCII."""
 
-
+ 
 def armar_diccionario_ascii():
     "Diccionario con todos los caracteres del codigo ASCII"
     ascii_dict = {}
