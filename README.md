@@ -7,6 +7,7 @@ Cada carpeta representa un programa independiente, con su propio código fuente 
 ## Estructura 📁
 
 - - [Cifrado César](cifrado_cesar/cifrado.py): Implementación del cifrado César sobre el alfabeto ASCII.
+- - [Cifrado Libro](cifrado_libro/cifrado_libro.py): Implementación del cifrado clásico por libro, que codifica mensajes usando un texto llave como referencia para sustituir palabras o letras
 
 ## Objetivo 🎯
 
