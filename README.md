@@ -17,7 +17,6 @@ Este repositorio funciona como un diario de aprendizaje y como base para futuros
 
 - 🐍 Python 3.x
 - 🧪 Algunos programas tienen tests simples
-- 📄 Cada programa tiene un pequeño `README.md` explicativo
 
 ## Licencia
 
