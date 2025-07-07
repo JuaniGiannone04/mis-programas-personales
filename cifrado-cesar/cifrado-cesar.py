@@ -29,8 +29,8 @@ def cifrar_cesar(message, tabulations):
 
 def main():
     "Main function"
-    ex_messaje = "HOLA COMO ESTAS"
-    ex_encriptation = cifrar_cesar(ex_messaje, 2)
+    ex_message = "HOLA COMO ESTAS"
+    ex_encriptation = cifrar_cesar(ex_message, 2)
     print(ex_encriptation)
 
 
