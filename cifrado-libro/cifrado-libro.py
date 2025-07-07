@@ -1,4 +1,4 @@
-"Cifrado por libro (con letras)"
+"Cifrado por libro (con letras). Es una forma clásica de cifrado donde el mensaje se codifica por índices de palabras en un texto llave."
 
 import re
 
