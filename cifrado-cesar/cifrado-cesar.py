@@ -1,4 +1,5 @@
 """Se hara un programa que imite el comportamiento del cifrado cesar.
+Consiste en desplazar cada letra de un mensaje un número fijo de posiciones en el alfabeto.
 Se pedira una palabra a cifrar y la cantidad de tabulaciones que se le
 hara a los digitos para cambiarlos, utilizando todos los digitos presentes
 en el ASCII."""
