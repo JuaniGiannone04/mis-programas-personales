@@ -11,6 +11,7 @@ Cada carpeta representa un programa independiente, con su propio código fuente 
 - - [Conversion de Bases](conversion-bases/conversion-bases.py): Programa que convierte números decimales a sus representaciones en binario, octal y hexadecimal.
 - - [Analizador de Texto](analizador-texto-basico/analizador-texto.py): Programa que analiza un texto ingresado por el usuario, contando palabras, caracteres, palabras únicas y frecuencias.
 - - [Buscador en Sopas de Letras](buscador-sopa-letras/buscador-sopa-letras.py): Buscador de palabras en sopa de letras (en todas las direcciones).
+- - [Resolutor de Sudoku](resolutor-sudoku/resolutor-sudoku.py): Resolutor de Sudoku en Python usando backtracking. Permite ingresar tableros desde consola, valida las reglas y los resuelve automáticamente.
 
 ## Objetivo 🎯
 
