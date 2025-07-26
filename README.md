@@ -13,6 +13,7 @@ Cada carpeta representa un programa independiente, con su propio código fuente 
 - - [Buscador en Sopas de Letras](buscador-sopa-letras/buscador-sopa-letras.py): Buscador de palabras en sopa de letras (en todas las direcciones).
 - - [Resolutor de Sudoku](resolutor-sudoku/resolutor-sudoku.py): Resolutor de Sudoku en Python usando backtracking. Permite ingresar tableros desde consola, valida las reglas y los resuelve automáticamente.
 - - [Valor de PI π](valor_pi/valor_pi.py): Implementa y compara diferentes algoritmos para calcular aproximaciones del número π (pi), cada uno basado en distintos principios matemáticos.
+- - [Maquina Enigma](maquina_enigma/maquina_enigma.py): Simula el funcionamiento básico de la Máquina Enigma, un dispositivo de cifrado utilizado durante la Segunda Guerra Mundial.
 
 ## Objetivo 🎯
 
