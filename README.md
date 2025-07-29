@@ -14,6 +14,7 @@ Cada carpeta representa un programa independiente, con su propio código fuente 
 - - [Resolutor de Sudoku](resolutor-sudoku/resolutor-sudoku.py): Resolutor de Sudoku en Python usando backtracking. Permite ingresar tableros desde consola, valida las reglas y los resuelve automáticamente.
 - - [Valor de PI π](valor_pi/valor_pi.py): Implementa y compara diferentes algoritmos para calcular aproximaciones del número π (pi), cada uno basado en distintos principios matemáticos.
 - - [Maquina Enigma](maquina_enigma/maquina_enigma.py): Simula el funcionamiento básico de la Máquina Enigma, un dispositivo de cifrado utilizado durante la Segunda Guerra Mundial.
+- - [Calculadora Básica LINUX](calcu_basica/calcu_basica.py): Calculadora básica desarrollada en Python que permite realizar operaciones aritméticas simples desde la consola de Linux.
 
 ## Objetivo 🎯
 
