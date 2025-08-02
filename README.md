@@ -15,6 +15,7 @@ Cada carpeta representa un programa independiente, con su propio código fuente 
 - - [Valor de PI π](valor_pi/valor_pi.py): Implementa y compara diferentes algoritmos para calcular aproximaciones del número π (pi), cada uno basado en distintos principios matemáticos.
 - - [Maquina Enigma](maquina_enigma/maquina_enigma.py): Simula el funcionamiento básico de la Máquina Enigma, un dispositivo de cifrado utilizado durante la Segunda Guerra Mundial.
 - - [Calculadora Básica LINUX](calcu_basica/calcu_basica.py): Calculadora básica desarrollada en Python que permite realizar operaciones aritméticas simples desde la consola de Linux.
+- - [PROGRAMA BACKUP LINUX](backup/backup.py): Permite crear respaldos automáticos de una carpeta específica, comprimiendo todo su contenido (incluyendo subcarpetas y archivos) en un archivo .zip.
 
 ## Objetivo 🎯
 
